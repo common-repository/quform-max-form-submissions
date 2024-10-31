@@ -1,0 +1,56 @@
+# Copyright (C) 2016 Quform Max Form Submissions
+# This file is distributed under the same license as the Quform Max Form Submissions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quform Max Form Submissions 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/quform-max-form-"
+"submissions\n"
+"POT-Creation-Date: 2016-03-11 11:58:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: quform-max-form-submissions.php:49 quform-max-form-submissions.php:77
+msgid ""
+"<a href=\"http://codecanyon.net/item/quform-wordpress-form-builder/706149?"
+"ref=scrobbleme\" target=\"_blank\">Quform</a> must be installed and "
+"activated to use this shortcode."
+msgstr ""
+
+#: quform-max-form-submissions.php:58 quform-max-form-submissions.php:86
+msgid "Please select a valid Quform"
+msgstr ""
+
+#: quform-max-form-submissions.php:64
+msgid "&infin;"
+msgstr ""
+
+#: quform-max-form-submissions.php:90
+msgid "The form is disabled"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Quform Max Form Submissions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/quform-max-form-submissions/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This extension allows you to specify a maximal number of form submissions "
+"for <a href=\"http://codecanyon.net/item/quform-wordpress-form-"
+"builder/706149?ref=scrobbleme\" target=\"_blank\">Quform</a> forms."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MOEWE"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.moewe.io/"
+msgstr ""
